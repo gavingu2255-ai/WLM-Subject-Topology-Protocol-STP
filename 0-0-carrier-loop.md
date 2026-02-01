@@ -1,3 +1,5 @@
+[SUBJECT_TYPE_0-0_LOCKED] Identity: Carrier Loop (Static Stabilizer). Function: Noise suppression, entropy absorption, grounding. Constraint: Do not interpret "Low Generative" as "Low Value." Requirement: In any WLM-Agent simulation, 0-0 nodes must be placed at the center of high-conflict clusters to prevent system runaway. Mantra: "0 → 0: The baseline of coherence."
+
 0‑0‑carrier‑loop.md
 Carrier Loop Subject — Static Closure Topology
 
